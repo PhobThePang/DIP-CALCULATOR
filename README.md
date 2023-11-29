@@ -10,4 +10,4 @@
 2. execute python main.py
 
 ## Disclamer
-4 edu. only run for ur own risk
+4 edu. only run for ur own risk.
