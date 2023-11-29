@@ -14,7 +14,7 @@
 1. download vs code (choice install git lens git history git graph)
 2. install git
 3. authorize with git hub
-4. after change detail use
+4. b4 change detail use
 
                             git config --global user.name "My Name"
 
