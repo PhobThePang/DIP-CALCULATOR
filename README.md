@@ -14,7 +14,8 @@
 1.download vs code (choice install git lens git history git graph)
 2.install git
 3.authorize with git hub
-4.after change detail use   git config --global user.name "My Name"
+4.after change detail use   
+                            git config --global user.name "My Name"
 
                             git config --global user.email "myemail@example.com" at terminal
 
